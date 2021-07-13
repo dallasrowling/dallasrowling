@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**dallasrowling/dallasrowling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dallas and I'm a full-stack developer who specializes in various programming languages including JavaScript, React, Node.js. 
 
-Here are some ideas to get you started:
+### Specialities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 JavaScript Aficiando 
+📊 Designing WordPress sites for 5+ years
+🎨 UX Wizard with HTML5 and CSS3 expertise 
+📍 MERN Stack (MongoDB, Express, React and Node.js)
+
+### Current projects 
+
+![Niche Hero](https://github.com/dallasrowling/niche-hero/blob/main/assets/images/banner-1544x500.png?raw=true)
+**Niche Hero | Beautifully-designed blocks in seconds** 
+**Description:** Niche Hero is aptly named for its capability to be plugged into any industry website and provide beautifully-designed blocks in seconds.
+**View project:** https://wordpress.org/plugins/niche-hero/
+
+
