@@ -4,10 +4,10 @@ My name is Dallas and I'm a full-stack developer who specializes in various prog
 
 ### Specialities
 
-🏆 JavaScript Aficiando 
-📊 Designing WordPress sites for 5+ years
-🎨 UX Wizard with HTML5 and CSS3 expertise 
-📍 MERN Stack (MongoDB, Express, React and Node.js)
+- 🏆 JavaScript Aficiando 
+- 📊 Designing WordPress sites for 5+ years
+- 🎨 UX Wizard with HTML5 and CSS3 expertise 
+- 📍 MERN Stack (MongoDB, Express, React and Node.js)
 
 ### Current projects 
 
