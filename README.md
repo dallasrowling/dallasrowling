@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dallas and I'm a full-stack developer who specializes in various programming languages including JavaScript, React, Node.js. 
+My name is Dallas and I'm a full-stack developer who specializes in various programming languages including JavaScript, React, Node.js and PHP to name a few.
 
 ### Specialities
 
