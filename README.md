@@ -4,6 +4,11 @@ View my complete personal portfolio at dallasrowling.com (http://dallasrowling.c
 
 My name is Dallas and I'm a full-stack developer who specializes in various programming languages including JavaScript, React, Node.js and PHP to name a few.
 
+### RowPress
+
+Currently in production for a custom CMS built on MERN, RowPress.
+More details coming soon...
+
 ### Specialities
 
 - 🏆 JavaScript Aficiando 
