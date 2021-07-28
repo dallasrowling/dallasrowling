@@ -6,7 +6,7 @@ My name is Dallas and I'm a full-stack developer who specializes in various prog
 
 ### RowPress
 
-Currently in production for a custom CMS built on MERN, RowPress.
+Currently in production for a custom CMS built on MERN (MongoDB, Express, React and Node.js), RowPress.
 More details coming soon...
 
 ### Specialities
